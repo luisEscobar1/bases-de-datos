@@ -22,6 +22,7 @@ public class Bases1 {
     
         System.out.println(" instruccion");
     
+        System.out.println("me gusta el ron de binola  :v");
     }
     
 }
