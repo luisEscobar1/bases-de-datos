@@ -20,6 +20,7 @@ public class Bases1 {
         // TODO code application logic here
         System.out.println("hola mundo");
     
+        System.out.println(" instruccion");
     
     }
     
